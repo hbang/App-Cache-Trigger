@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Updating home screen icon cache…"
+uicache

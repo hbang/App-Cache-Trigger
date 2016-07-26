@@ -1,0 +1,11 @@
+<plist>
+<dict>
+	<key>Filter</key>
+	<dict>
+		<key>Bundles</key>
+		<array>
+			<string>com.saurik.Cydia</string>
+		</array>
+	</dict>
+</dict>
+</plist>

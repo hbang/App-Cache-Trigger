@@ -1,0 +1,10 @@
+Package: ws.hbang.appcachetrigger
+Name: App Cache Trigger
+Depends: mobilesubstrate, uikittools
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Speed up Cydia installations
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Support: https://www.hbang.ws/support/
+Section: Packaging
